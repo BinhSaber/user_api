@@ -1,0 +1,18 @@
+{
+    "name": "User API",
+    "version": "1.0.0",
+    "description": "Documentation for User API",
+    "title": "Server User API",
+    "apidoc": {
+      "header": {
+        "title": "Introduction",
+        "filename": "header.md"
+      },
+      "footer": {
+        "title": "All Done",
+        "content": "All Done"
+
+      }
+    },
+    "order": ["User"]
+  }
